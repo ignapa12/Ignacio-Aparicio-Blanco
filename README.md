@@ -1,6 +1,13 @@
-# Ignacio-Aparicio-Blanco
+### Hello! I'm [Ignacio Aparicio Blanco](www.linkedin.com/in/ignacio-aparicio-blanco)
 
-### Books
+## 👨‍💻 About me
+* 🌎 Spanish, English
+* 🛠️ Software Craftsperson
+* 👾 Gamedev
+
+---
+
+## 📚 Bookshelf
 
 📖 Current readings:
 
@@ -28,3 +35,5 @@
 * Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman; Dave H Hoover; Adewale Oshineye
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win; Gene Kim; Kevin Behr; George Spafford
 * Peopleware: Productive Projects and Teams; Tom DeMarco; Timothy Lister
+
+---
