@@ -1,4 +1,4 @@
-### Hello! I'm [Ignacio Aparicio Blanco](www.linkedin.com/in/ignacio-aparicio-blanco)
+### Hello! I'm [Ignacio Aparicio Blanco][linkedIn]
 
 ## 👨‍💻 About me
 * 🌎 Spanish, English
@@ -6,6 +6,8 @@
 * 👾 Gamedev
 
 ---
+[gmail]: ignapa12@gmail.com
+[linkedIn]: https://www.linkedin.com/in/ignapa-dev/
 
 ## Skills
 
